@@ -11,4 +11,4 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,babel,github,mongodb,node.js,postgres,postman,rails,react,redux,replit,ruby,sqlite,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,babel,github,mongodb,nodejs,postgres,postman,rails,react,redux,replit,ruby,sqlite,vscode,webpack)](https://skillicons.dev)
