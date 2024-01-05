@@ -1,6 +1,6 @@
 ### Hello, I'm Ashley!  👋
 
-
+<a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)" height="100" /></a>
 <!--
 **Asyan77/Asyan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
