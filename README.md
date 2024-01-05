@@ -1,5 +1,5 @@
 ### Hello, I'm Ashley!  👋
-<a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="[https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png](https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif)" height="100" /></a>
+<div class="tenor-gif-embed" data-postid="21599707" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">Coding Typing GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="100" /></a>
 <!--
 **Asyan77/Asyan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
