@@ -1,19 +1,21 @@
 ### Hello, I'm Ashley!  👋
-<div class="tenor-gif-embed" data-postid="21599707" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">Coding Typing GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://c.tenor.com/ITc1hNBSH_wAAAAd/tenor.gif" height="100" /></a>
 <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="100" /></a>
+
+- 🔭 I’m currently working on brushing up on DS & A, and my Burnr project which is a clone of Flickr!  
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on any new projects, reach out to me with your ideas! Or if you need help on your website shoot me an email :) 
+- 🤔 I’m looking for help with a better understanding of the backend
+- 💬 Ask me about any of my hobbies, like tennis, surfing, jiu jistu, meditation, burning man, yoga, or traveling! 
+- 📫 How to reach me: asyan77@gmail.com
+- ⚡ Fun fact: 
+
 <!--
 **Asyan77/Asyan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 -->
