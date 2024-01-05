@@ -1,5 +1,5 @@
 ### Hello, I'm Ashley!  👋
-
+<a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="[https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png](https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif)" height="100" /></a>
 <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="100" /></a>
 <!--
 **Asyan77/Asyan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
