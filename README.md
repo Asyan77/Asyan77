@@ -1,5 +1,4 @@
-# 🌈 Hey there, I'm Ashley!  👋
-
+# 🌈 Hey there, I'm Ashley! ☀️
 - 🔭 I’m currently working on brushing up on DS & A, and add new features to my current projects!  
 - 🌱 I’m currently learning MERN stack, and looking forward to diving into some Python
 - 👯 I’m looking to collaborate on any new projects, reach out to me with your ideas! Or if you need help on your website shoot me an email :) 
