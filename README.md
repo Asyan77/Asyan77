@@ -1,4 +1,4 @@
-# Hello, I'm Ashley!  👋
+# Hey there, I'm Ashley!  👋
 
 - 🔭 I’m currently working on brushing up on DS & A, and add new features to my current projects!  
 - 🌱 I’m currently learning MERN stack, and looking forward to diving into some Python
