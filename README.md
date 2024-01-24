@@ -6,9 +6,7 @@
 - 💬 Ask me about any of my hobbies, like tennis, surfing, jiu jistu, meditation, burning man, yoga, or traveling!
 - ⚡ Fun facts: I used to coach tennis and Jiu-Jitsu, as well as compete in Jiu Jitsu. I've visited 21 countires. As a side passion, I make and sell a specialty Taiwanese dish in San Francisco, Lu Ruo Fan.
 - ✨ Checkout my <a href="https://asyan77.github.io/portfolio/" target="blank">portfolio</a> to learn more about me and my journey
-- 📫 How to reach me: asyan77@gmail.com or
-  
-<a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="50" /></a>
+- 📫 How to reach me: Email me at asyan77@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="50" /></a>
 
 ### Technologies I've used: 
 
