@@ -1,6 +1,8 @@
 # 🌈 Hello hello, I'm Ashley! ☀️
-### 🔭 I'm currently working on my full stack clone of Flickr, called Burnr, to implement new features like Albums and Favorites. Additionally, I practice DS&A , solo and pairboarding, to keep my problem solving skills strong.
-- 🌱 I’m currently learning MERN stack, and looking forward to diving into some Python because I enjoy learning new technologies.
+### 🔭 I'm currently working on 
+my full stack clone of Flickr, called Burnr, to implement new features like Albums and Favorites. Additionally, I practice DS&A , solo and pairboarding, to keep my problem solving skills strong.
+### 🌱 I’m currently learning 
+MERN stack, and looking forward to diving into some Python because I enjoy learning new technologies.
 - 👯 I’m looking to collaborate on any new projects, reach out to me with your ideas! Or if you need help on your website shoot me an email :) 
 - 🤔 I’m looking for help to gain a more solid understanding of the backend
 - 💬 Ask me about any of my hobbies, like tennis, surfing, jiu jistu, meditation, burning man, yoga, or traveling!
