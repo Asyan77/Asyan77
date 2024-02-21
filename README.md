@@ -21,4 +21,4 @@ Fun facts:
 
 ### Technologies I've used: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,babel,github,mongodb,nodejs,postgres,postman,rails,react,redux,replit,ruby,sqlite,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,babel,github,mongodb,nodejs,postgres,postman,rails,react,redux,replit,ruby,sqlite,vscode,webpack&perline=6)](https://skillicons.dev)
