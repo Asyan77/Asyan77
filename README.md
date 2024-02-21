@@ -1,10 +1,7 @@
-```html
-<div class="code-block">
-
-
-
-
 # 🌈 Hello hello, I'm Ashley
+<div style="background-color: #f0f0f0; padding: 10px;">
+    <p style="color: blue;">This paragraph has a gray background and blue text.</p>
+</div>
 ### A full-stack software engineer, who is passionately working on designing and building new innovative web applications
 ### Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas
 ### I'm up for hire for freelancing or to grow within a company
@@ -20,12 +17,3 @@
 ### Technologies I've used: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,babel,github,mongodb,nodejs,postgres,postman,rails,react,redux,replit,ruby,sqlite,vscode,webpack)](https://skillicons.dev)
-
-
-</div>
-
-```css
-.code-block {
-    background-color: #f0f0f0;
-    /* Other styling properties */
-}
