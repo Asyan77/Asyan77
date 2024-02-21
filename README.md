@@ -1,12 +1,11 @@
-# 🌈 Hello hello, I'm Ashley! ☀️
-### 🔭 I'm currently working on 
-my full stack clone of Flickr, called Burnr, to implement new features like Albums and Favorites. Additionally, I practice DS&A , solo and pairboarding, to keep my problem solving skills strong.
-### 🌱 I’m currently learning 
+# 🌈 Hello hello, I'm Ashley ☀️
+### A full-stack software engineer, who is passionately working on  
+
+### 🌱 Let's work together in this fascinating new ecospace 
 MERN stack, and looking forward to diving into some Python because I enjoy learning new technologies.
-### 👯 I’m looking to 
+### 👯 I'm up for hire, or for freelancing
 collaborate on any new projects, reach out to me with your ideas! Or if you need help on your website shoot me an email :) 
-### 🤔 I’m looking for help to 
-gain a more solid understanding of the backend
+
 ### 💬 Ask me about 
 any of my hobbies, like tennis, surfing, jiu jistu, meditation, burning man, yoga, or traveling!
 ### ⚡ Fun facts: 
@@ -20,3 +19,10 @@ Email me at asyan77@gmail.com or via <a href="https://www.linkedin.com/in/ashley
 ### Technologies I've used: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,babel,github,mongodb,nodejs,postgres,postman,rails,react,redux,replit,ruby,sqlite,vscode,webpack)](https://skillicons.dev)
+
+
+```css
+.code-block {
+    background-color: #f0f0f0;
+    /* Other styling properties */
+}
