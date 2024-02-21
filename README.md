@@ -1,3 +1,10 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif)">
+</picture>
+
+
 # 🌈 Hello hello, I'm Ashley
 ### A full-stack software engineer, who is passionately working on building innovative web applications
 Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas
