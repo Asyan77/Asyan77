@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
 </picture>
 
 
