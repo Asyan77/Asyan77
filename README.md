@@ -1,5 +1,5 @@
 # 🌈 Hello hello, I'm Ashley
-### A full-stack software engineer, who is passionately working on designing and building new innovative web applications
+### A full-stack software engineer, who is passionately working on designing and building innovative web applications
 Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas
 I'm up for hire for freelancing or to grow within a company
 You can reach me at asyan77@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="40" /></a>.
