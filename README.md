@@ -1,6 +1,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif)">
+ <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
  <img alt="Woman Coder" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
 </picture>
 
