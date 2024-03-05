@@ -4,7 +4,8 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
 </picture>
 
-
+<center>
+  
 # 🌈 Hello hello, I'm Ashley!
 ###           A BIPOC queer full-stack software engineer, who is passionate about making an impact in social justice, equality, or sustainability.
 Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas
@@ -28,3 +29,5 @@ Fun facts:
 ### Technologies I've used: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,babel,github,mongodb,nodejs,postgres,postman,rails,react,redux,replit,ruby,sqlite,vscode,webpack&perline=6)](https://skillicons.dev)
+
+</center>
