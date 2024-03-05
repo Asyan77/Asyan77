@@ -11,7 +11,11 @@
   </picture>
 
 <p align="center">
-<strong>A BIPOC queer full-stack software engineer, who is passionate about making an impact in social justice, equality, or sustainability. </strong>
+<strong>A BIPOC queer full-stack software engineer</strong> 
+  <p align="center">
+<strong>Passionate about making an impact in social justice, equality, or sustainability. </strong>
+  
+
     
 
   
