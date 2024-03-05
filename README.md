@@ -1,14 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
+  </picture>
+</p>
 
-<center>
-  
 # 🌈 Hello hello, I'm Ashley!
-</center>
-###           A BIPOC queer full-stack software engineer, who is passionate about making an impact in social justice, equality, or sustainability.
+### A BIPOC queer full-stack software engineer, who is passionate about making an impact in social justice, equality, or sustainability.
+  
+<p align="center">
+<center>
 Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas
 
 
@@ -20,6 +22,8 @@ You can reach me at asyan77@gmail.com or via <a href="https://www.linkedin.com/i
 
 Visit my <a href="https://asyan77.github.io/portfolio/" target="blank">portfolio</a> for more inside scoop about me and my journey!
 
+</center>
+</p>
 
 Fun facts: 
  - I used to coach tennis and Jiu-Jitsu, as well as compete in Jiu Jitsu.
