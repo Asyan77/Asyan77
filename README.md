@@ -6,7 +6,7 @@
 
 
 # 🌈 Hello hello, I'm Ashley!
-### A BIPOC queer full-stack software engineer, who is passionate about making an impact in social justice, equality, or sustainability.
+###           A BIPOC queer full-stack software engineer, who is passionate about making an impact in social justice, equality, or sustainability.
 Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas
 
 
