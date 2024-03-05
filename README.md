@@ -7,6 +7,7 @@
 <center>
   
 # 🌈 Hello hello, I'm Ashley!
+</center>
 ###           A BIPOC queer full-stack software engineer, who is passionate about making an impact in social justice, equality, or sustainability.
 Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas
 
@@ -30,4 +31,4 @@ Fun facts:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,babel,github,mongodb,nodejs,postgres,postman,rails,react,redux,replit,ruby,sqlite,vscode,webpack&perline=6)](https://skillicons.dev)
 
-</center>
+
