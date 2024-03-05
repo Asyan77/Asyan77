@@ -5,8 +5,8 @@
 </picture>
 
 
-# 🌈 Hello hello, I'm Ashley
-### A full-stack software engineer, who is passionately working on building innovative web applications
+# 🌈 Hello hello, I'm Ashley!
+### A full-stack software engineer, who is passionate about making an impact in social justice, equality, or sustainability.
 Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas
 
 
