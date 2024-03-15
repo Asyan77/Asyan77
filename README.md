@@ -11,7 +11,7 @@
   </picture>
 
 <p align="center">
-<strong>A BIPOC queer full-stack software engineer</strong> 
+<strong>A dynamic and results-driven BIPOC queer full-stack female software engineer</strong> 
   <p align="center">
 <strong>Passionate about making an impact in social justice, equality, or sustainability. </strong>
   
@@ -27,14 +27,14 @@ Let's work together! I'm open to collaborating on new projects, reach out to me 
 I'm up for hire for freelancing or to grow within a company. 
 
 <p align="center">
-You can reach me at Ashley.Yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="40" /></a>.
+You can reach me at ashley.yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="40" /></a>.
 
 <p align="center">
 Visit my <a href="https://asyan77.github.io/portfolio/" target="blank">portfolio</a> for more inside scoop about me and my journey!
 
 
 <p align="center">
-Fun facts: I used to coach tennis and Jiu-Jitsu, as well as compete in Jiu Jitsu. I've visited 21 countires. As a side passion I make and sell a specialty Taiwanese dish in San Francisco, Lu Ruo Fan. I geek out about food, sustainability, travel, sports, and meditation
+Fun facts: I've coached and competed in Jiu Jitsu. I've visited 21 countires, and counting. I make and sell a specialty Taiwanese dish in San Francisco, Lu Ruo Fan. I geek out about food, sustainability, travel, sports, and meditation.
 
 <p align="center">
 <strong>Technologies I've used: </strong>
