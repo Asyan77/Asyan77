@@ -13,7 +13,7 @@
 <p align="center">
 <strong>A dynamic and results-driven BIPOC queer full-stack female software engineer</strong> 
   <p align="center">
-<strong>Passionate about making an impact in social justice, equality, or sustainability. </strong>
+<strong>Passionate about making an impact in, but not limited to, social justice, healthcare, mental wellness, fitness, climate justice, human rights, equality, or sustainability. Clearly, I'm a very passionate person!</strong>
   
 
     
