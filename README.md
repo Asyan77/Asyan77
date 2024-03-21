@@ -13,7 +13,7 @@
 <p align="center">
 <strong>A dynamic and results-driven female software engineer</strong> 
   <p align="center">
-<strong>Spirited about making an impact in, but not limited to, social justice, healthcare, mental wellness, fitness, climate justice, human rights, equality, education, or sustainability.!</strong>
+<strong>Spirited about making an impact in, but not limited to, social justice, healthcare, mental wellness, fitness, climate justice, human rights, equality, education, or sustainability.</strong>
   
 
     
