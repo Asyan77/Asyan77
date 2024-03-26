@@ -30,7 +30,7 @@ I'm up for hire for freelancing or to grow within a company.
 You can reach me at ashley.yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://bi-jingo.com/wp-content/uploads/1997/03/Linkedin-Logo.png" height="40" /></a>.
 
 <p align="center">
-Visit my <a href="https://asyan77.github.io/portfolio1/" target="blank">portfolio</a> for more inside scoop about me and my journey!
+Visit my <a href="ashley-yan.com" target="blank">portfolio</a> for more inside scoop about me and my journey!
 
 
 <p align="center">
