@@ -27,7 +27,7 @@ Let's work together! I'm open to collaborating on new projects, reach out to me 
 I'm up for hire for freelancing or to grow within a company. 
 
 <p align="center">
-You can reach me at ashley.yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://www.shutterstock.com/image-vector/linkedin-logo-icon-text-png-260nw-2306947545.jpg" height="40" /></a> 
+You can reach me at ashley.yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-Logo-2019.png" height="40" /></a> 
 
 <p align="center">
 Visit my <a href="https://ashley-yan.com/" target="blank">portfolio</a> for more inside scoop about me and my journey!
