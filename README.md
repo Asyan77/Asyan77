@@ -12,8 +12,8 @@
 
 <p align="center">
 <strong>A humble, curious, & playful female software engineer</strong> 
-  <p align="center">
-<strong>Spirited about making an impact in social justice, healthcare, mental wellness, fitness, climate justice, equality, education, or sustainability.</strong>
+<p align="center">
+Visit my <a href="https://ashley-yan.com/" target="blank">portfolio</a> for more inside scoop about me and my journey!
   
 
     
@@ -29,8 +29,7 @@ I'm up for hire for freelancing or to grow within a company.
 <p align="center">
 You can reach me at ashley.yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-Logo-2019.png" height="40" /></a> 
 
-<p align="center">
-Visit my <a href="https://ashley-yan.com/" target="blank">portfolio</a> for more inside scoop about me and my journey!
+
 
 
 <p align="center">
