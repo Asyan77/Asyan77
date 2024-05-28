@@ -1,6 +1,6 @@
 <p align="center">
   <span style="font-size: 40px;">
-    <strong >🌈 Hello hello, I'm Ashley!</strong>
+    <strong >🌈 Hiya, I'm Ashley!</strong>
   </span>
 
 <p align="center">
@@ -11,9 +11,9 @@
   </picture>
 
 <p align="center">
-<strong>A dynamic and results-driven female software engineer</strong> 
+<strong>A humble, curious, & playful female software engineer</strong> 
   <p align="center">
-<strong>Spirited about making an impact in, but not limited to, social justice, healthcare, mental wellness, fitness, climate justice, human rights, equality, education, or sustainability.</strong>
+<strong>Spirited about making an impact in social justice, healthcare, mental wellness, fitness, climate justice, equality, education, or sustainability.</strong>
   
 
     
