@@ -12,9 +12,13 @@
 
 <p align="center">
 <strong>A humble, curious, & playful female software engineer</strong> 
+
+  <p align="center">
+<strong>I joined the tech world to be of service to people and community </strong> 
+    
 <p align="center">
 Visit my <a href="https://ashley-yan.com/" target="blank">portfolio</a> for more inside scoop about me and my journey!
-  
+
 
     
 
