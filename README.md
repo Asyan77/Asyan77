@@ -1,43 +1,35 @@
-<p align="center">
-  <span style="font-size: 40px;">
-    <strong >🌈 Hiya, I'm Ashley!</strong>
-  </span>
+
+<div align="center">
+  <h1>🌈 Hi, I'm Ashley!</h1>
+</div>
+
 
 <p align="center">
-  <picture>
+  <img alt="dancy cat" src="https://media.tenor.com/Doz_0PR3GQkAAAAi/cat-cats.gif">
+<!--   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
     <source media="(prefers-color-scheme: light)" srcset="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
     <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T1454A1PA3853PT17X49Y38D1051375122W25000H24737/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/code-cutie-anime-girl-programming-unisex-stars-stripes-t-shirt.jpg">
-  </picture>
+  </picture> -->
 
 <p align="center">
-<strong>A humble, curious, & playful female software engineer</strong> 
+<strong>A humble, curious, dedicated & playful software engineer.</strong> 
 
-  <p align="center">
-<strong>I joined the tech world to be of service to people and community </strong> 
+<p align="center">
+<strong>I joined the tech world to be of service to people and community! </strong> 
     
 <p align="center">
-Visit my <a href="https://ashley-yan.com/" target="blank">portfolio</a> for more inside scoop about me and my journey!
-
-
-    
-
-  
+Visit my <a href="https://ashley-yan.com/" target="blank">portfolio</a> for more inside scoop about me and my journey :) 
 
 <p align="center">
-Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas. 
+I would love to contribute to any new projects or lend a hand debugging! 🙂
+<!-- Let's work together! I'm open to collaborating on new projects, reach out to me with your ideas.  -->
 
 <p align="center">
-I'm up for hire for freelancing or to grow within a company. 
+I'm also open to freelancing opportunites or to grow within a company as well. 
 
 <p align="center">
-You can reach me at ashley.yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-Logo-2019.png" height="40" /></a> 
-
-
-
-
-<p align="center">
-Fun facts: I've coached and competed in Jiu Jitsu. I've visited 21 countires, and counting. I make and sell a specialty Taiwanese dish in San Francisco, Lu Ruo Fan. I geek out about food, sustainability, travel, sports, and meditation.
+Let's connect! You can reach me at ashley.yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-Logo-2019.png" height="40" /></a> 
 
 <p align="center">
 <strong>Technologies I've used: </strong>
@@ -48,3 +40,5 @@ Fun facts: I've coached and competed in Jiu Jitsu. I've visited 21 countires, an
 
 
 
+<p align="center">
+<strong> Outside of coding </strong>I'm dedicated to multiple sports, such as Jiu Jitsu, tennis, surfing, and climbing. I make and sell a specialty Taiwanese dish in San Francisco as a side passion. I'm also the dedicated butler of 2 floofy cats and a sweet 13yr old one-eye'd doggo named Eleanor!
