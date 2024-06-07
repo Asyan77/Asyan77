@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>🌈 Hi, I'm Ashley</h1>
+  <h1>🌈 Hey there, I'm Ashley</h1>
 </div>
 
 
@@ -13,13 +13,13 @@
   </picture> -->
 
 <p align="center">
-<strong>A humble, curious, dedicated & playful software engineer</strong> 
+<strong>A humble, curious, dedicated & playful software engineer.</strong> 
 
 <p align="center">
-<strong>I joined the tech world to be of service to people and community </strong> 
+<strong>I joined the tech world to be of service to people and community. </strong> 
     
 <p align="center">
-Visit my <a href="https://ashley-yan.com/" target="blank">portfolio</a> for more inside scoop about me and my journey
+Visit my <a href="https://ashley-yan.com/" target="blank">portfolio</a> for more inside scoop about me and my journey.
 
 <p align="center">
 I would love to contribute to any new projects or lend a hand debugging 🙂
