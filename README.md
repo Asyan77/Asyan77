@@ -29,7 +29,7 @@ I would love to contribute to any new projects or lend a hand debugging 🙂
 I'm also open to freelancing opportunites or to grow within a company as well. 
 
 <p align="center">
-Let's connect! You can reach me at ashley.yan.devs@gmail.com or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-Logo-2019.png" height="40" /></a> 
+Let's connect! You can reach me at <strong>ashley.yan.devs@gmail.com</strong> or via <a href="https://www.linkedin.com/in/ashley-yan/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-Logo-2019.png" height="40" /></a> 
 
 <p align="center">
 <strong>Technologies I've used: </strong>
